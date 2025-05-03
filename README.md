@@ -1,2 +1,2 @@
-# 5-Joints-Robotic-Arm
+# Robotic-Arm
 
